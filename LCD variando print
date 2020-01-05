@@ -1,3 +1,4 @@
+//Programa de arduíno para o LCD mudar o que se printa a partir de botão
 #include <LiquidCrystal.h>
 
 
